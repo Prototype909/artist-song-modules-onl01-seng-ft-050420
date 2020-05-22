@@ -10,5 +10,4 @@ end
      name.downcase.gsub(' ', '-')
   end
 
-end 
-
+end
